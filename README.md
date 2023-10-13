@@ -1,5 +1,3 @@
-<p align="center">Cheats made by someone who knows more about what they're doing</p>
-<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
 ## Information
 
