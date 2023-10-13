@@ -27,7 +27,7 @@
                 },
                 querySelector: iframe.contentDocument.querySelector.bind(document),
                 includes: function () {
-                    if (["Cheats", "Global", "Global Cheats", "Github - oneminesraft2", "Auto Answer (Toggle)", "Auto Sell Dupes On Open", "Spam Buy Blooks", "Food Game", "Change Blook Ingame", "Get Daily Rewards", "Remove Name Limit", "Simulate Unlock", "Cheat ESP", "Gold Quest Cheats", "Cafe Cheats", "Crypto Hack Cheats", "Deceptive Dinos Cheats", "Tower Defense Cheats", "Tower Defense2 Cheats", "Factory Cheats", "Fishing Frenzy Cheats", "Flappy Blook Cheats", "Tower of Doom Cheats", "Crazy Kingdom Cheats", "Racing Cheats", "Battle Royale Cheats", "Blook Rush Cheats", "Monster Brawl Cheats", "Santa's Workshop Cheats"].includes(arguments[0]))
+                    if (["Cheats", "Global", "Global Cheats", "Github - LoneliestDev", "Auto Answer (Toggle)", "Auto Sell Dupes On Open", "Spam Buy Blooks", "Food Game", "Change Blook Ingame", "Get Daily Rewards", "Remove Name Limit", "Simulate Unlock", "Cheat ESP", "Gold Quest Cheats", "Cafe Cheats", "Crypto Hack Cheats", "Deceptive Dinos Cheats", "Tower Defense Cheats", "Tower Defense2 Cheats", "Factory Cheats", "Fishing Frenzy Cheats", "Flappy Blook Cheats", "Tower of Doom Cheats", "Crazy Kingdom Cheats", "Racing Cheats", "Battle Royale Cheats", "Blook Rush Cheats", "Monster Brawl Cheats", "Santa's Workshop Cheats"].includes(arguments[0]))
                         return false;
                     return iframe.contentWindow.String.prototype.call(this, arguments);
                 },
